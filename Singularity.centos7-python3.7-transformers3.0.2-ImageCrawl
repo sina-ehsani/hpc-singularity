@@ -36,7 +36,7 @@ From: nvidia/cuda:10.1-cudnn7-devel-centos7
 
   # Install Google Image Download
   git clone -b patch-1 --single-branch https://github.com/Joeclinton1/google-images-download.git
-  cd google-images-download && sudo python3.7 setup.py install
+  cd google-images-download && python3.7 setup.py install
 
   # in-container bind points for shared filesystems
   mkdir -p /extra /xdisk /uaopt /cm/shared
