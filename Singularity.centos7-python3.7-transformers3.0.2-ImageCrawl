@@ -47,3 +47,4 @@ From: nvidia/cuda:10.1-cudnn7-devel-centos7
   java -version
   python3.7 --version
   pip3.7 list
+
