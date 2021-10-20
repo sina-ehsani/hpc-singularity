@@ -1,7 +1,7 @@
 # hpc-singularity
 Singularity for HPC
 
-Make sure the sigularity is built on https://singularity-hub.org
+Make sure the sigularity is built on https://sylabs.io
 
 if ready use:
 
